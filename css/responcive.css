@@ -1,0 +1,424 @@
+@media(max-width:1200px)
+{
+	.navbar-brand img
+	{
+		margin-left:0px;
+		width: 100px;
+	}
+	nav 
+	{
+		background-color: white;
+	}
+
+	.aerophantom-tage-line
+	{
+		margin-top: 100px;
+	}
+	.navbar-collapse
+	{
+		background-color: white;
+	}
+
+	.navbar-nav
+	{
+		margin-left: 0px;
+		text-align: center;
+		color: black;
+	}
+
+	.nav-item a
+	{
+		color: black;
+	}
+
+	.aerophantom-tage-line-content h3
+	{
+		font-size: 40px;
+		text-align: center;
+	}
+
+	.aeromodelling h1
+	{
+		font-size:40px;
+		font-family: "Merriweather";
+		text-transform: uppercase;
+		text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+		text-align: center;
+	}
+
+	.aeromodelling-image img
+	{
+		width: 100%;
+		margin-left: -5px;
+		margin-top: 20px;
+		margin-bottom: 50px;
+	}
+
+	.aeromodelling-content-1 h1
+	{
+		width: 100%;
+		font-size: 2rem;
+	  	font-weight: 800;
+	  	font-family: "Montserrat",Arial,sans-serif;
+	  	text-transform: uppercase;
+	  	text-align: center;
+	}
+
+	.aeromodelling-content-1 p
+	{
+		width: 100%;
+		font-family: "Merriweather";
+	  	opacity: .8;
+	  	font-size: 2em;
+	  	font-style: italic;
+	  	margin-left: 20px;
+	  	margin-top: 20px;
+	}
+
+	.aeromodelling-content-1 h1 i
+	{
+		font-size: 1rem;
+	}
+	.aeromodelling-content-2 h1
+	{
+		letter-spacing: 2px;
+		font-size: 2rem;
+	  	font-weight: 800;
+	  	font-family: "Montserrat",Arial,sans-serif;
+	  	text-transform: uppercase;
+	}
+
+	.aeromodelling-content-2 p{
+		font-family: "Merriweather";
+	  opacity: .8;
+	  font-size: 2em;
+	  font-style: italic;
+	  margin-left: 30px;
+	}
+
+	.aeromodelling-content-2 h1 i{
+		font-size: 1rem;
+	}
+
+
+	.card-title
+	{
+		letter-spacing: 2px;
+		font-size: 1.3rem;
+	  	font-weight: 800;
+	  	font-family: "Montserrat",Arial,sans-serif;
+	  	text-transform: uppercase;
+	  	text-align: center;
+	  	margin-top: 20px;
+	}
+
+	.card-text
+	{
+		font-family: "Merriweather";
+	  	opacity: 1;
+	  	font-size: 1.7em;
+	  	font-style: italic;
+	  	text-align: center;
+	}
+	.card-text-1
+	{
+		font-family: "Merriweather";
+  		opacity: 1;
+  		font-size: 1.7em;
+		font-style: italic;
+		text-align: center;
+		margin-top: -21px;
+	}
+
+	.card-body .btn
+	{
+		font-size: 25px;
+		color: white;
+		background-color: black;
+		font-family: "Merriweather";
+		padding: 15px 30px
+	}
+
+	.aerophantom-what-we-do-image-1 img
+	{
+		width: 100%;
+		height: 100%;
+		padding: 10px;
+		border-radius: 20px;
+	}
+
+	.aerophantom-what-we-do-content-1 h1
+	{
+		letter-spacing: 2px;
+		font-size: 5rem;
+	  font-weight: 600;
+	  font-family: "Montserrat",Arial,sans-serif;
+	  text-transform: uppercase;
+	  text-align: center;
+	  padding-right: 20px;
+	}
+
+	.aerophantom-what-we-do-content-1 p
+	{
+		font-family: "Merriweather";
+	  opacity: 1;
+	  font-size: 2rem;
+	  font-style: italic;
+	  width: 100%;
+	  margin-left: 0px;
+	}
+
+	.aerophantom-what-we-do-content-2 h1
+	{
+		letter-spacing: 2px;
+		font-size: 3rem;
+	  font-weight: 600;
+	  font-family: "Montserrat",Arial,sans-serif;
+	  text-transform: uppercase;
+	  text-align: center;
+	  margin-top: 50px;
+	}
+
+	.aerophantom-what-we-do-content-2 p
+	{
+		font-family: "Merriweather";
+	  opacity: 1;
+	  font-size: 2rem;
+	  font-style: italic;
+	  width: 100%;
+	  margin-left: 0px;
+	}
+
+	.aerophantom-team-content
+	{
+		width: 100%;
+		height: auto;
+		margin-bottom: 20px;
+		margin-top: 20px;
+		margin-left: 0px;
+		text-align: center;
+	}
+
+	.aerophantom-team-container .col-lg-4 {
+	  display: flex;
+	  justify-content: center;
+	}
+
+	.aerophantom-team-container-images 
+	{
+		height: 380px;
+	}
+
+	.aerophantom-team-content h1
+	{
+		letter-spacing: 2px;
+		font-size: 4rem;
+	  	font-weight: 600;
+	  	font-family: "Montserrat",Arial,sans-serif;
+	  	text-transform: uppercase;
+	  	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	}
+	.aerophantom-team-content p
+	{
+		font-family: "Merriweather";
+	  	opacity: 1;
+	  	font-size: 2rem;
+	  	font-style: italic;
+	  	letter-spacing: 0.1px;
+	  	width: 100%;
+	}
+
+	.aerophantom-footer-2 span
+	{
+		font-size: 20px;
+		text-decoration: none;
+		color: black;
+		font-weight:1000;
+		margin-left: 50px;
+	}
+	.aerophantom-footer-2 a
+	{
+	  margin-top: 5px;
+		font-size: 18px;
+		font-family: "Merriweather";
+		font-weight:600;
+		text-decoration: none;
+		color: black;
+		display: block;
+	}
+
+	.aerophantom-footer-1 img
+	{
+		width: 20%;
+		margin-left: 20px;
+	}
+
+	.aerophantom-footer-1 a
+	{
+		font-size: 20px;
+		font-family: "Merriweather;";
+		font-weight: 600;
+	}
+
+	.aerophantom-footer-1-1
+	{
+	   display: flex;
+	   margin-top: 10px;
+	   margin-left: 20px;
+	}
+
+	.aerophantom-footer-2
+	{
+		margin-top: 20px;
+	}
+
+	.aerophantom-footer-2 span
+	{
+		font-size: 20px;
+		text-decoration: none;
+		color: black;
+		font-weight:1000;
+	}
+	.aerophantom-footer-2 a
+	{
+		font-size: 18px;
+		font-family: "Merriweather";
+		font-weight:600;
+		text-decoration: none;
+		color: black;
+		display: block;
+		margin-left: 50px;
+		margin-top: 0px;
+	}
+
+
+	.aerophantom-footer-3
+	{
+	  margin-top: 20px;
+	  margin-left: 0px;
+	}
+
+	.aerophantom-footer-3 span
+	{
+	  font-size: 20px;
+	  text-decoration: none;
+	  color: black;
+	  font-weight: 1000;
+	  text-transform: uppercase;
+	  margin-left: 50px;
+	}
+
+	.aerophantom-footer-3 p
+	{
+	  font-size: 16px;
+	  font-family: "Merriweather";
+	  font-weight:600;
+	  text-decoration: none;
+	  color: black;
+	  margin-left: 50px;
+	  padding-top: 0px;
+	}
+
+	.aerophantom-footer-4
+	{
+	  margin-top: 20px;
+	}
+
+	.aerophantom-footer-4 span
+	{
+	  font-size: 20px;
+	  text-decoration: none;
+	  color: black;
+	  font-weight: 1000;
+	  text-transform: uppercase;
+	  margin-left: 50px;
+	}
+	.aerophantom-footer-4 input
+	{
+	  margin-left: 50px;
+	  margin-top: 20px;
+	  padding: 10px;
+	  border-radius: 10px;
+	  font-size:15px;
+	  color: black;
+	}
+
+	.aerophantom-footer-4 button
+	{
+	  margin-left: 80px;
+	  margin-top: 20px;
+	  background-color: black;
+	  color: white;
+	  width: 20%;
+	  height: 40px;
+	  border: none;
+	  font-family: "Merriweather";
+	}
+
+
+	/* About Page Responcive */
+
+
+	.aerophantom-about-content h1
+	{
+		letter-spacing: 2px;
+		font-size: 3rem;
+	  font-weight: 600;
+	  font-family: "Montserrat",Arial,sans-serif;
+	  text-transform: uppercase;
+	  text-align: center;
+	  padding-right: 20px;
+	}
+
+	.aerophantom-about-content p
+	{
+	  font-family: "Merriweather";
+	  opacity: 1;
+	  font-size: 2.5rem;
+	  font-style: italic;
+	  text-align: center;
+	  width: 80%;
+	  margin-left: 40px;
+	}
+
+	.aerophantom-about-content-1 h1
+	{
+	  letter-spacing: 2px;
+	  font-size: 3rem;
+	  font-weight: 600;
+	  font-family: "Montserrat",Arial,sans-serif;
+	  text-transform: uppercase;
+	  text-align: center;
+	  margin-top: 100px;
+	}
+
+	.aerophantom-about-content-1 li
+	{
+	  font-family: "Merriweather";
+	  opacity: 1;
+	  font-size: 2.5rem;
+	  font-style: italic;
+	  width: 80%;
+	  margin-left: 40px;
+	  padding-top: 20px;
+	}
+
+	.collapse button
+	{
+		margin-left: auto;
+		margin-right: auto;
+		display: block;
+	}
+}
+
+@media(max-width:992px)
+{
+	.images
+	{
+		display: none;
+	}
+	.aerophantom-tage-line-content h3
+	{
+		margin-left: 40px;
+	}
+}
